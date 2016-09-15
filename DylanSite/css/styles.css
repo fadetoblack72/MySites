@@ -1,0 +1,49 @@
+body {
+  background-color: DarkTurquoise;
+  margin-top: 60px;
+}
+
+.navbar {
+  background-color: DarkViolet;
+  border-color: DarkViolet;
+}
+
+.white {
+  color: FloralWhite !important;
+}
+
+.active a{
+  background-color:  DeepPink !important;
+}
+
+#blurb {
+  color: white;
+  font-size: 2em;
+}
+
+.dylanpic {
+  max-width: 75%;
+  max-height: 75%;
+}
+
+.list-group-item {
+  background-color: DeepSkyBlue;
+}
+
+.bottomIcon {
+  height: 48px;
+  width: 48px;
+}
+
+#endlist {
+  background-color: DarkTurquoise;
+  border: none;
+}
+
+#bottomlinks {
+  font-size: .5em;
+}
+
+.location {
+  margin-top: 60px;
+}
